@@ -10,6 +10,8 @@ Linear Regression; Gradient Descent; From Scratch
 
 
 ## Visualization
-![image](https://github.com/user-attachments/assets/ab1a110a-cb78-43ef-a9f1-29dfc725d99e)
+
+![image](https://github.com/user-attachments/assets/7a46d5a8-a638-4187-b80f-d1eab57a6267)
+
 
 
