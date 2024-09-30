@@ -6,7 +6,7 @@ Linear Regression; Gradient Descent; From Scratch
 
 - **numpy**
 - **pandas**
-- **matplotlib (plt)**
+- **matplotlib**
 
 
 ## Visualization
