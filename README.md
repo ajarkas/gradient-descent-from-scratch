@@ -9,9 +9,10 @@ Linear Regression; Gradient Descent; From Scratch
 - **matplotlib**
 
 
-## Visualization
+## Gradient Descent Progression Visualization
 
-![image](https://github.com/user-attachments/assets/7a46d5a8-a638-4187-b80f-d1eab57a6267)
+![image](https://github.com/user-attachments/assets/e948f1b2-6585-47fb-af78-ed25a9fd9bca)
+
 
 
 
