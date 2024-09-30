@@ -4,8 +4,8 @@ Linear Regression; Gradient Descent; From Scratch
 
 ## Packages
 
-- **pandas**
 - **numpy**
+- **pandas**
 - **matplotlib (plt)**
 
 
